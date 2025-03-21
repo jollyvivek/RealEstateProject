@@ -5,6 +5,7 @@ import Projects from './components/Projects'
 import Testimonails from './components/Testimonails'
 import Contact from './components/Contact'
 import { ToastContainer } from 'react-toastify';
+import Footer from './components/Footer'
 // import '../node_modules/react-toastify/dist/'
 
 const App = () => {
@@ -16,7 +17,7 @@ const App = () => {
         <Projects/>
         <Testimonails/>
         <Contact/>
-      
+        <Footer/>
       
       
       </div>
